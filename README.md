@@ -1,0 +1,2 @@
+# CoronakraftServer
+ Serverfiles for Coronakraft
